@@ -1,0 +1,25 @@
+/*© ООО Сео-Гранд seo-grand.ru*/
+
+@font-face {
+    font-family: 'Exo 2.0 Medium';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Exo 2.0 Medium'), local('Exo2.0Medium-Regular'),
+      url(../fonts/exo-20-medium.woff) format('woff'),
+      url(../fonts/exo-20-medium.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Exo 2.0 Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Exo 2.0 Bold'), local('Exo2.0-Bold'),
+    url(../fonts/exo-20-bold.woff) format('woff'),
+    url(../fonts/exo-20-bold.ttf) format('truetype');
+}
+
+
+
+.iosSlider{width:100%;height:550px}
+.iosSlider .slider{width:100%;height:100%}
+.iosSlider2{width:100%;height:550px; padding-top: 25px}
+.iosSlider2 .slider{width:100%;height:100%}
