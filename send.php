@@ -40,8 +40,8 @@ $text2 = $output['utm_text2']; // текст обьявления 2
 $phrase = urldecode($where);
 
 
-  $to  = 'okna.expert-master@mail.ru,375296381521@sms.velcom.by,vitaminiby@ya.ru';
- $messageklient  = 'okna.expert-master@mail.ru,375296381521@sms.velcom.by,vitaminiby@ya.ru';
+  $to  = 'vitaminiby@ya.ru';
+ $messageklient  = 'okna.expert-master@mail.ru,375296381521@sms.velcom.by';
 $subject = 'окна-с-завода - '.$phone.'';
 $from = "$name";
 // текст письма
